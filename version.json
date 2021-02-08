@@ -1,0 +1,8 @@
+{
+  "latest_version": 1,
+  "update_files":{
+  	"./mods": {
+      "test.file":""
+    }
+  }
+}
